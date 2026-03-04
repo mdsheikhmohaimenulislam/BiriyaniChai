@@ -8,7 +8,7 @@ const Navbar = () => {
 
         <div className="flex-1">
           <Link to={"/"} className="btn btn-ghost text-xl">
-            daisyUI
+         BiriyaniChai
           </Link>
         </div>
 <div className="sm:hidden md:block">

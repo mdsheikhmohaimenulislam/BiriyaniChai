@@ -8,7 +8,7 @@ const Root = () => {
     <div>
       {/* NavBar */}
       <Navbar />
-      <div className="max-w-7xl mx-auto ">
+      <div className="max-w-7xl mx-auto min-h-[calc(100vh-68px)]">
         <Outlet />
       </div>
       {/* Footer */}

@@ -2,7 +2,10 @@
 @plugin "daisyui";
 
 
-
-/* .button{
-    display: none;
-} */
+.arimo-font {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* normal */
+  font-weight: 700; /* bold */
+  font-weight: bold;
+}
