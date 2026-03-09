@@ -4,7 +4,7 @@ import './index.css'
 import router from './routers/router.jsx'
 import { RouterProvider } from 'react-router'
 import { ToastContainer } from 'react-toastify'
-
+import "leaflet/dist/leaflet.css";
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
