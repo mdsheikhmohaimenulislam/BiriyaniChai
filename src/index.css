@@ -1,8 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-
-
 .arimo-font {
   font-family: "Arimo", sans-serif;
   font-optical-sizing: auto;
